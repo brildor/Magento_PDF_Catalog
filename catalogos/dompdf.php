@@ -1,4 +1,7 @@
 <?php
+/*
+ * Programacion Externa para extraer productos de magento
+ */
 /**
  * Error reporting
  */
